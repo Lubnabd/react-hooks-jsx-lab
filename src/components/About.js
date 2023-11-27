@@ -6,8 +6,8 @@ function About() {
  
       <div id="about">
         <h2>About Me</h2>
-        <h3>I made this</h3>
-        <img src={image} alt="I made this" ></img>
+        <p>I made this</p>
+        <img src={image} alt="I made this" />
       </div>
   )
   };
